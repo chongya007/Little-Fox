@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Gem
+  - Cherry
+  - HiddenGround
+  - Deadline
+  - Dialog
+  - Trap
+  - Score
+  - Ladder
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - "\u5730\u9762"
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: "\u80CC\u666F"
+    uniqueID: 927271113
+    locked: 0
+  - name: "\u73A9\u5BB6"
+    uniqueID: 2918831005
+    locked: 0
+  - name: "\u9053\u5177"
+    uniqueID: 555473843
+    locked: 0
+  - name: "\u524D\u666F"
+    uniqueID: 1906543123
+    locked: 0
